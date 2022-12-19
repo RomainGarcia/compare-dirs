@@ -1,0 +1,7 @@
+.idea/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+tests/
+Makefile
+cmake_install.cmake
